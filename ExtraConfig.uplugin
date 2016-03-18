@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "ExtraConfig",
-	"Description": "",
+	"Description": "Query and manipulate additional config settings",
 	"Category": "Other",
 	"CreatedBy": "",
 	"CreatedByURL": "",
